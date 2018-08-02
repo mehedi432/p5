@@ -1,8 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/17WoOqgXsRM
-// Converted to ES6 by Mehedi Abdullah
 
 class Star {
     constructor() {
